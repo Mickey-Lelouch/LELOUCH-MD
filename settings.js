@@ -135,7 +135,7 @@ module.exports = {
 *ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ LELOUCH ᴍᴏᴅs🚩* 
 
 > sᴜʙsᴄʀɪʙᴇ ʏᴛ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴛᴜᴛᴏʀɪᴀʟs
-https://whatsapp.com/channel/0029VbAdsjk7ScxrnZovG2z
+https://whatsapp.com/channel/0029VbAdsjk7YScxrnZovG2z
 
 - *ʏᴏᴜʀ ʙᴏᴛ ᴘʀᴇғɪx: ➡️[ . ]*
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
