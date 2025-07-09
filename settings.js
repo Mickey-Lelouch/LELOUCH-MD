@@ -12,7 +12,7 @@ module.exports = {
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "ʟɪᴛᴇ-xᴅ",
+    BOT_NAME: process.env.BOT_NAME || "ʟ.ᴍɪᴋᴇʏ-MD",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -48,10 +48,10 @@ module.exports = {
     MENTION_REPLY: process.env.MENTION_REPLY || "false",
     // make true if want auto voice reply if someone mention you 
 
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/lm4a0b.jpg",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/viyoun.jpg",
     // add custom menu and mention reply image url
 
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/lm4a0b.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/kpzbvk.jpg",
     // add img for alive msg
 
     LIVE_MSG: process.env.LIVE_MSG || 
@@ -61,7 +61,7 @@ module.exports = {
 
 *© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*
 
-> ɢɪᴛʜᴜʙ : https://github.com/Lelouch/LELOUCH-MD`,
+> ɢɪᴛʜᴜʙ : https://github.com/Mickey-Lelouch/LELOUCH-MD`,
     // add alive msg here 
 
     STICKER_NAME: process.env.STICKER_NAME || "LELOUCH-MD",
@@ -141,7 +141,7 @@ https://whatsapp.com/channel/0029VbAdsjk7ScxrnZovG2z
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
 
 > ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
-https://github.com/Lelouch/LELOUCH-MD
+https://github.com/Mickey-Lelouch/LELOUCH-MD
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ LELOUCH`
 };
